@@ -1,7 +1,7 @@
-### Hi there 👋
+### Ola 👋
 
 <!--
-**Erick-MatheuS/Erick-MatheuS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Erick Matheus, i'm from Brazil
 
 Here are some ideas to get you started:
 
